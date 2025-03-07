@@ -513,8 +513,6 @@ class App(MDApp):
             )
         dialog.open()
 
-        
-
     def close(self):
         self.stop()
 
@@ -528,3 +526,4 @@ if(__name__ == "__main__"):
 
 # tempkivymd
 # wedz iupc zhhc hgak
+# fhgk jygx dwox dune
