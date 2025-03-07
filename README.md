@@ -72,4 +72,4 @@ You can customize the application by modifying the `UI` string in the code for d
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/amoghthusoo/Email-Sender/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/amoghthusoo/Email-Sender/blob/master/LICENSE.txt) file for details.
