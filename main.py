@@ -270,7 +270,6 @@ class App(MDApp):
 
         self.theme_color = [123/255, 2/255, 144/255, 255/255]
         self.file_manager = MDFileManager(select_path = self.select_path, exit_manager = self.exit_file_manager)
-        
 
         self.file_manager.background_color_toolbar = self.theme_color
         self.file_manager.background_color_selection_button = self.theme_color
